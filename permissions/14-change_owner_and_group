@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent $(chgrp staff $(find -minddepth 1))
+chown vincent* chgrp staff*

@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello, $(who -m)"
+echo "hello $(id -un)"
